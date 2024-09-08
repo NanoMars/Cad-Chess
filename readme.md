@@ -4,6 +4,9 @@
 
 A fully 3D printable chess set, designed for [Hack Club Arcade](https://hackclub.com/arcade/). This set includes customizable files for both the chessboard and pieces.
 
+![image](https://cloud-in4bd0zcy-hack-club-bot.vercel.app/03dchess.png)
+
+
 ## Required Materials
 
 - **Magnets:** 96 magnets, 10 mm diameter, 2 mm thick.
